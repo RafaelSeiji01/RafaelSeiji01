@@ -1,6 +1,9 @@
-## Hi there 👋
 
-Here are some ideas to get you started:
+<div align="center">
+  <img width="351" height="62" alt="Bem-vindo (1)" src="https://github.com/user-attachments/assets/1e6eedf3-60d3-43d2-b3e6-d5a2b9ef0477" />
+
+</div>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
