@@ -22,6 +22,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
+
+<img width="289" height="44" alt="ferramentas (1)" src="https://github.com/user-attachments/assets/5acfcec9-0695-47a5-b3aa-8b4c93ada23c" />
+
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+
+<br>
+
 <br>
 <img width="260" height="44" alt="soft-skills" src="https://github.com/user-attachments/assets/9bed53f2-dcdd-480b-b882-867f3ab204e4" />
 
