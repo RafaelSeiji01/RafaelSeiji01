@@ -32,9 +32,14 @@
 <img width="193" height="44" alt="contato" src="https://github.com/user-attachments/assets/de83f2f1-bb5a-4ef8-ba98-c1b8fafa5edc" />
 <br>
 
+<br>
 
+<a href="https://www.linkedin.com/in/rafael-seiji-39961b333/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-<div align="left">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
-</div>
+<a href="mailto:seijiarakaki12@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<br>
