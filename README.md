@@ -6,10 +6,9 @@
 
 <br>
 
-- 🎓 Cursando **Engenharia de Software** na FIAP.
-- 🛠️ Trabalhando com **Infraestrutura**.
-- 🎯 Focado em **Java**, **Python** e **Perícia Digital**.
-- 💻 [Link para o meu Projeto CRUD de Alimentos](LINK_DO_SEU_REPOSITORIO)
+-  Engenheiro de Software
+-  Trabalhando com **Infraestrutura**.
+  
 
 <br>
 
@@ -28,10 +27,6 @@
 
 <br>
 
-* **🔍 Pensamento Analítico:** Capacidade de decompor problemas complexos em partes menores, essencial tanto para o desenvolvimento de software quanto para a resolução de problemas em infraestrutura.
-* **🤝 Colaboração e Trabalho em Equipe:** Experiência atuando em ambientes colaborativos (como a monitoria na FIAP), compartilhando conhecimento e auxiliando colegas.
-* **🛡️ Ética e Atenção aos Detalhes:** Crucial para quem busca a área de Perícia Digital e Forense, onde o rigor e a integridade dos dados são fundamentais.
-* **💡 Adaptabilidade e Aprendizado Rápido:** Disposição para aprender novas tecnologias (como Java e Python) e se adaptar às constantes mudanças do setor de TI.
 
 <br>
 <img width="193" height="44" alt="contato" src="https://github.com/user-attachments/assets/de83f2f1-bb5a-4ef8-ba98-c1b8fafa5edc" />
