@@ -27,6 +27,12 @@
 
 <br>
 
+<br>
+
+<img src="https://img.shields.io/badge/Comunicação-008080?style=for-the-badge" alt="Comunicação"> <img src="https://img.shields.io/badge/Trabalho_em_Equipe-2E8B57?style=for-the-badge" alt="Trabalho em Equipe"> <img src="https://img.shields.io/badge/Resolução_de_Problemas-4682B4?style=for-the-badge" alt="Resolução de Problemas"> <img src="https://img.shields.io/badge/Ética_e_Atenção-8B0000?style=for-the-badge" alt="Ética"> <img src="https://img.shields.io/badge/Aprendizado_Rápido-DAA520?style=for-the-badge" alt="Aprendizado Rápido">
+
+<br>
+
 
 <br>
 <img width="193" height="44" alt="contato" src="https://github.com/user-attachments/assets/de83f2f1-bb5a-4ef8-ba98-c1b8fafa5edc" />
