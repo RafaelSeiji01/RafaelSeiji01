@@ -1,62 +1,112 @@
-
 <div align="center">
-  <img width="351" height="62" alt="Bem-vindo (1)" src="https://github.com/user-attachments/assets/1e6eedf3-60d3-43d2-b3e6-d5a2b9ef0477" />
+
+  <!-- Banner Topo Cyberpunk / Neon Roxo -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Rafael%20Seiji&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+
+  <br/>
+
+  <!-- Status / Views -->
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-8A2BE2?style=for-the-badge&logo=opsgenie&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=rafaelseiji&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
-<br>
+<br/>
 
--  Engenheiro de Software
--  Trabalhando com **Infraestrutura**.
-  
+## About Me
 
-<br>
+- Engenheiro de Software
+- Trabalhando com **Infraestrutura**
 
-<br>
-<img width="258" height="44" alt="Hard-skills (1)" src="https://github.com/user-attachments/assets/091fe534-2232-4477-9653-488ebdbb4bd9" />
-<br>
+<br/>
 
-<br>
+---
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+##  Technical Skills:
 
-<br>
+<div align="left">
 
+  <!-- Ícones em círculos estilo Skillicons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,py,html,css,react,tailwind,git,vercel,figma" alt="My Skills" />
+  </a>
 
-<br>
-<img width="289" height="44" alt="ferramentas (1)" src="https://github.com/user-attachments/assets/5acfcec9-0695-47a5-b3aa-8b4c93ada23c" />
-<br>
+</div>
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-0496FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+---
 
-<br>
+##  GitHub Stats:
 
-<br>
-<img width="260" height="44" alt="soft-skills" src="https://github.com/user-attachments/assets/9bed53f2-dcdd-480b-b882-867f3ab204e4" />
+<div align="center">
 
-<br>
+  <!-- Cards de Estatísticas com URLs Estáveis e Fallback -->
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaelseiji&layout=compact&theme=synthwave&hide_border=false" alt="Most Used Languages" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaelseiji&show_icons=true&theme=synthwave&hide_border=false" alt="GitHub Stats" />
 
-<br>
+  <br/><br/>
 
-<img src="https://img.shields.io/badge/Comunicação-008080?style=for-the-badge" alt="Comunicação"> <img src="https://img.shields.io/badge/Trabalho_em_Equipe-2E8B57?style=for-the-badge" alt="Trabalho em Equipe"> <img src="https://img.shields.io/badge/Resolução_de_Problemas-4682B4?style=for-the-badge" alt="Resolução de Problemas"> <img src="https://img.shields.io/badge/Ética_e_Atenção-8B0000?style=for-the-badge" alt="Ética"> <img src="https://img.shields.io/badge/Aprendizado_Rápido-DAA520?style=for-the-badge" alt="Aprendizado Rápido">
+  <!-- Streak Stats + GIF Hacker Neon -->
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelseiji&theme=synthwave&hide_border=false" alt="GitHub Streak" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZudXQxbGpxN3k5ZW8zbTBiaDgwZHcyMmlqOWFzeWV3bzdybmZhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L333C85EG3A11qOq3R/giphy.gif" alt="Hacker Neon GIF" />
 
-<br>
+</div>
 
+<br/>
 
-<br>
-<img width="193" height="44" alt="contato" src="https://github.com/user-attachments/assets/de83f2f1-bb5a-4ef8-ba98-c1b8fafa5edc" />
-<br>
+---
 
-<br>
+##  GitHub Trophies
 
-<a href="https://www.linkedin.com/in/rafael-seiji-39961b333/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<div align="center">
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=seijiarakaki12@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+<div align="center">
 
-<br>
+  <img src="https://img.shields.io/badge/ACHIEVEMENT-SOFTWARE_ENGINEER-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPECIALIZATION-INFRASTRUCTURE-8A2BE2?style=for-the-badge&logo=serverless&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_BUILDER-00FF66?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/LEVEL-CONTINUOUS_LEARNER-8A2BE2?style=for-the-badge&logo=google&logoColor=white" />
+
+</div>
+
+</div>
+
+<br/>
+
+---
+
+## Soft-skills & Competências
+
+- **Comunicação**
+- **Trabalho em Equipe**
+- **Resolução de Problemas**
+- **Ética e Atenção**
+- **Aprendizado Rápido**
+
+<br/>
+
+---
+
+## Contact Me:
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/rafael-seiji-39961b333/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seijiarakaki12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" width="100%" alt="Footer" />
+</div>
