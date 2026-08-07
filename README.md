@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- Banner Topo Cyberpunk / Neon Roxo -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Rafael%20Seiji&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Bem%20vindo&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 
   <br/>
 
   <!-- Status / Views -->
   <img src="https://img.shields.io/badge/STATUS-ONLINE-8A2BE2?style=for-the-badge&logo=opsgenie&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=rafaelseiji&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS" />
+
 
 </div>
 
