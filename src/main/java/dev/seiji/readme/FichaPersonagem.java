@@ -18,7 +18,7 @@ public final class FichaPersonagem {
             <style>
             text{font-family:'Courier New',Courier,monospace;font-weight:700}
             .t{fill:#fff} .d{fill:#b9c3ff} .y{fill:#ffd23f}
-            .xp{animation:xp 4s ease-out infinite;transform-origin:left} @keyframes xp{0%{transform:scaleX(0)}70%,100%{transform:scaleX(1)}}
+            .xp{animation:xp 4s ease-out infinite;transform-box:fill-box;transform-origin:left center} @keyframes xp{0%{transform:scaleX(0)}70%,100%{transform:scaleX(1)}}
             .blink{animation:bl 1s steps(1) infinite} @keyframes bl{50%{opacity:0}}
             .bob{animation:bo 1.6s steps(2) infinite} @keyframes bo{50%{transform:translateY(-4px)}}
             </style>
@@ -65,8 +65,8 @@ public final class FichaPersonagem {
             sb.append(Svg.texto(420, y + 12, 16, "t", a.nome(), null));
             for (int s = 0; s < 10; s++) {
                 sb.append("<rect x=\"").append(600 + s * 18).append("\" y=\"").append(y)
-                  .append("\" width=\"14\" height=\"14\" fill=\"").append(s < a.nivel() ? a.cor() : "#0b0f2e")
-                  .append("\" stroke=\"#fff\" stroke-width=\"1.5\"/>");
+                        .append("\" width=\"14\" height=\"14\" fill=\"").append(s < a.nivel() ? a.cor() : "#0b0f2e")
+                        .append("\" stroke=\"#fff\" stroke-width=\"1.5\"/>");
             }
             sb.append(Svg.texto(790, y + 12, 16, "t", "%3d".formatted(a.nivel() * 10), null));
         }
@@ -96,17 +96,17 @@ public final class FichaPersonagem {
     /** Janela azul com borda dupla, no estilo dos menus de RPG antigos. */
     private static String janela(int x, int y, int w, int h) {
         return "<rect x=\"" + x + "\" y=\"" + y + "\" width=\"" + w + "\" height=\"" + h + "\" fill=\"url(#win)\"/>"
-             + "<rect x=\"" + (x + 3) + "\" y=\"" + (y + 3) + "\" width=\"" + (w - 6) + "\" height=\"" + (h - 6)
-             + "\" fill=\"none\" stroke=\"#fff\" stroke-width=\"4\"/>"
-             + "<rect x=\"" + (x + 9) + "\" y=\"" + (y + 9) + "\" width=\"" + (w - 18) + "\" height=\"" + (h - 18)
-             + "\" fill=\"none\" stroke=\"#7d8bd6\" stroke-width=\"2\"/>";
+                + "<rect x=\"" + (x + 3) + "\" y=\"" + (y + 3) + "\" width=\"" + (w - 6) + "\" height=\"" + (h - 6)
+                + "\" fill=\"none\" stroke=\"#fff\" stroke-width=\"4\"/>"
+                + "<rect x=\"" + (x + 9) + "\" y=\"" + (y + 9) + "\" width=\"" + (w - 18) + "\" height=\"" + (h - 18)
+                + "\" fill=\"none\" stroke=\"#7d8bd6\" stroke-width=\"2\"/>";
     }
 
     private static String barra(int x, int y, int w, int pct, String cor, String classe) {
         int cheio = w * pct / 100;
         return Svg.rect(x, y, w, 14, "#0b0f2e")
-             + "<rect x=\"" + x + "\" y=\"" + y + "\" width=\"" + cheio + "\" height=\"14\" fill=\"" + cor + "\" class=\"" + classe + "\"/>"
-             + "<rect x=\"" + x + "\" y=\"" + y + "\" width=\"" + cheio + "\" height=\"4\" fill=\"#fff\" opacity=\".35\" class=\"" + classe + "\"/>"
-             + "<rect x=\"" + x + "\" y=\"" + y + "\" width=\"" + w + "\" height=\"14\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/>";
+                + "<rect x=\"" + x + "\" y=\"" + y + "\" width=\"" + cheio + "\" height=\"14\" fill=\"" + cor + "\" class=\"" + classe + "\"/>"
+                + "<rect x=\"" + x + "\" y=\"" + y + "\" width=\"" + cheio + "\" height=\"4\" fill=\"#fff\" opacity=\".35\" class=\"" + classe + "\"/>"
+                + "<rect x=\"" + x + "\" y=\"" + y + "\" width=\"" + w + "\" height=\"14\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/>";
     }
 }
