@@ -125,5 +125,4 @@ Um script em PowerShell automatizou o fechamento às 18h.
 
 <div align="center">
 <sub>© 2026 SEIJI GAMES · 1 PLAYER</sub><br>
-<sub>⚙️ As telas deste perfil são geradas por um programa em <b>Java 21</b> (<code>src/</code>) a partir de um save file (<code>perfil.properties</code>) e atualizadas por GitHub Actions.</sub>
-</div>
+
