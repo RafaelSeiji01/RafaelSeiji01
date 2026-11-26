@@ -46,15 +46,19 @@ RAFAEL: "Sou o Rafael Seiji, Engenheiro de Software em
 <br>
 
 ```text
-╭─ INVENTÁRIO ─────────────────────────────────────────╮
-│  🏆  Troféu Dourado ........ 1º FIAP Hackathon 2026   │
-│        └ forjado com o projeto AUTO-LAB               │
-│  🥈  Medalha de Prata ...... 2º FIAP NEXT 2026        │
-│        └ obtida na Iniciação Científica IRIS          │
-│  🎓  Insígnia .............. Google Student Ambassador │
-│  🔧  Chave de Fenda +1 ..... +1 ano de estágio em TI  │
-│  ☕  Café ................... x99 (consumível)         │
-╰──────────────────────────────────────────────────────╯
+╭─ INVENTÁRIO ─────────────────────────────────────────────╮
+│                                                          │
+│  [01] Troféu Dourado ........ 1º FIAP Hackathon 2026     │
+│         └─ forjado com o projeto AUTO-LAB                │
+│                                                          │
+│  [02] Medalha de Prata ...... 2º FIAP NEXT 2026          │
+│         └─ obtida na Iniciação Científica IRIS           │
+│                                                          │
+│  [03] Insígnia .............. Google Student Ambassador  │
+│  [04] Chave de Fenda +1 ..... +1 ano de estágio em TI    │
+│  [05] Café .................. x99 (consumível)           │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
 ```
 
 </details>
